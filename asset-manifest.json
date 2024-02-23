@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/philiplesaigor/static/css/main.769fd60c.css",
+    "main.js": "/philiplesaigor/static/js/main.03193bfc.js",
+    "static/media/pride.jpg": "/philiplesaigor/static/media/pride.c2e22e51b868e46001b9.jpg",
+    "static/media/cow.jpg": "/philiplesaigor/static/media/cow.8d0a0188da7c71ff171a.jpg",
+    "static/media/repair.jpg": "/philiplesaigor/static/media/repair.d3f40a10a370431b0f66.jpg",
+    "static/media/portfolio4.jpg": "/philiplesaigor/static/media/portfolio4.0798f751b3155eadf637.jpg",
+    "static/media/logo.jpg": "/philiplesaigor/static/media/logo.4034c0c5345b5928084d.jpg",
+    "static/media/portfolio6.jpg": "/philiplesaigor/static/media/portfolio6.39c4e6cba24820518b5a.jpg",
+    "static/media/system.jpg": "/philiplesaigor/static/media/system.25e8fe9b637a61223df3.jpg",
+    "static/media/portfolio5.jpg": "/philiplesaigor/static/media/portfolio5.a6e63a4ac0541739ca3c.jpg",
+    "index.html": "/philiplesaigor/index.html",
+    "main.769fd60c.css.map": "/philiplesaigor/static/css/main.769fd60c.css.map",
+    "main.03193bfc.js.map": "/philiplesaigor/static/js/main.03193bfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.769fd60c.css",
+    "static/js/main.03193bfc.js"
+  ]
+}
